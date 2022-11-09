@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @1brokenheart
-- 👀 I’m interested in anything related to accounting, business management, project management.
+- 👀 I’m interested in anything related to accounting, business management, project management because this have been my passion since I can remember. My family used to own businesses and I was always there learning, helping and eventually started my own.
 - 🌱 I’m currently learning JAVA.
 - 💞️ I’m looking to collaborate on data Science projects.
 - 📫 You can contact me @ selectallfrom123@gmail.com
